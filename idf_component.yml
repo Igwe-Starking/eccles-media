@@ -1,0 +1,4 @@
+version: "1.0.0"
+description: "Images, audio and video for microcontrollers: JPEG, PNG, WAV, MP3 adapter, AVI/MP4/3GP. Plain C99, streaming."
+url: https://github.com/igwe-starking/eccles-media
+license: MIT
